@@ -41,6 +41,18 @@ Welcome to the Full Stack Food Delivery Application! This project showcases a co
 
 This project aims to demonstrate the seamless integration of modern web technologies to build a robust and scalable food delivery system. Feel free to explore the code, contribute, and provide feedback to enhance the application further.
 
-### Getting Started
+To run this project locally, follow these steps:
 
-Follow the setup instructions in the repository to get started with the project. We hope you enjoy using this food delivery application as much as we enjoyed building it!
+Installation To run this project locally, follow these steps:
+
+cd food-del Install the dependencies:
+
+npm install Start the development server:
+
+npm start
+
+Usage
+
+Once the development server is running, you can access the website at http://localhost:5173/ Use the navigation bar to explore different sections of the website.
+![Screenshot from 2024-07-24 11-25-25](https://github.com/user-attachments/assets/3471cbc7-1e69-4620-b778-21419c2ae801)
+![Screenshot from 2024-07-24 11-24-41](https://github.com/user-attachments/assets/6219f859-a550-4618-83f2-4b30df6502c8)
