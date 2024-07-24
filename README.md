@@ -54,5 +54,6 @@ npm start
 Usage
 
 Once the development server is running, you can access the website at http://localhost:5173/ Use the navigation bar to explore different sections of the website.
-![Screenshot from 2024-07-24 11-25-25](https://github.com/user-attachments/assets/3471cbc7-1e69-4620-b778-21419c2ae801)
 ![Screenshot from 2024-07-24 11-24-41](https://github.com/user-attachments/assets/6219f859-a550-4618-83f2-4b30df6502c8)
+![Screenshot from 2024-07-24 11-25-25](https://github.com/user-attachments/assets/3471cbc7-1e69-4620-b778-21419c2ae801)
+
